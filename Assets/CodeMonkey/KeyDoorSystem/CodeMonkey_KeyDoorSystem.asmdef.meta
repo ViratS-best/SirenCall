@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f22db913ecc5b7346b46995e0a3ec3fd
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175210
+  packageName: Key Door System - FPS Microgame Approved Add-Ons
+  packageVersion: 1.0.1
+  assetPath: Assets/CodeMonkey/KeyDoorSystem/CodeMonkey_KeyDoorSystem.asmdef
+  uploadId: 534747

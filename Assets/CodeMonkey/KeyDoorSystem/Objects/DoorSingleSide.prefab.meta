@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 064259b0d2b7a394fb15f88197f3e02a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175210
+  packageName: Key Door System - FPS Microgame Approved Add-Ons
+  packageVersion: 1.0.1
+  assetPath: Assets/CodeMonkey/KeyDoorSystem/Objects/DoorSingleSide.prefab
+  uploadId: 534747

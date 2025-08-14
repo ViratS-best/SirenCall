@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37ddb3c7948698b419030192faaba1dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175210
+  packageName: Key Door System - FPS Microgame Approved Add-Ons
+  packageVersion: 1.0.1
+  assetPath: Assets/CodeMonkey/KeyDoorSystem/Scripts/DoorKeyHolder.cs
+  uploadId: 534747

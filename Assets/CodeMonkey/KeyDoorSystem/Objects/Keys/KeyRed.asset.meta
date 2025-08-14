@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 323d9359d9afd2a41bae33b8f886ac7c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 175210
+  packageName: Key Door System - FPS Microgame Approved Add-Ons
+  packageVersion: 1.0.1
+  assetPath: Assets/CodeMonkey/KeyDoorSystem/Objects/Keys/KeyRed.asset
+  uploadId: 534747
